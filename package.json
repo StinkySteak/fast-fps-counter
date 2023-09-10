@@ -1,0 +1,15 @@
+{
+    "name": "com.stinkysteak.fastfpscounter",
+    "version": "0.1.0",
+    "displayName": "Fast FPS Counter",
+    "description": "Fast FPS Conter",
+    "unity": "2021.3",
+    "documentationUrl": "https://github.com/StinkySteak/com.stinkysteak.fastfpscounter",
+    "changelogUrl": "https://github.com/StinkySteak/com.stinkysteak.fastfpscounter/blob/main/CHANGELOG.md",
+    "licensesUrl": "https://github.com/StinkySteak/com.stinkysteak.fastfpscounter/blob/main/LICENSE",
+    "author": {
+      "name": "Stinkysteak",
+      "email": "stinkysteak@steaksoft.com",
+      "url": "https://steaksoft.net"
+    }
+  }
