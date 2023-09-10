@@ -4,7 +4,7 @@ namespace StinkySteak.FPSCounter
 {
     public class FPSCounterSystem : MonoBehaviour
     {
-        private const int BUFFER_SIZE = 1;
+        [SerializeField] private int BUFFER_SIZE = 20;
         private float[] _framesDeltaTimes;
         private int _indexer;
 
